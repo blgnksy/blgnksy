@@ -1,9 +1,7 @@
 # Hi, I'm Bilgin Aksoy! 👋
 ## 🚀 About Me
 
-I'm a machine learning engineer.
-    
-- 👩‍💻 I'm currently working on ML Projects on NLP, Speech 2 Text
+I'm a software/machine learning engineer.
 
 - 🧠 I'm currently learning GRPC Protocol.
     
